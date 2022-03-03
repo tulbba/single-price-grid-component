@@ -85,7 +85,10 @@ div.container {
         font-weight: 700;
         margin-top: 1em;
         box-shadow: 0 10px 20px -1px hsla(0, 0%, 0%, 0.16);
+    }
 
+    button:hover {
+        cursor: pointer;
     }
 }
 

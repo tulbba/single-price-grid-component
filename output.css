@@ -78,6 +78,9 @@ div.container {
   margin-top: 1em;
   box-shadow: 0 10px 20px -1px rgba(0, 0, 0, 0.16);
 }
+.left button:hover {
+  cursor: pointer;
+}
 
 .right {
   background-color: rgba(42, 178, 175, 0.753);
